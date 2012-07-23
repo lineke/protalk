@@ -8,7 +8,7 @@ Mission
 
 We are an online community-driven resource providing a central point of access to audio/ video content with a PHP focus.  
 
-We have big plans for the site which include expanding into other programming languages.  In the meantime, we're covering all aspects of PHP and associated tools.
+We have big plans for the site which include expanding into other programming languages in the future.  In the meantime, we're covering all aspects of PHP and associated tools.
 
 We soft-launched at DPC12, so we're box-fresh and still in beta - new features and content are being added all the time.
 
